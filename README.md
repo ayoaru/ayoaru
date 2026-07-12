@@ -17,7 +17,7 @@
 - 🎓 Studying **Computer Science**, **Artificial Intelligence**, and **Philosophy** at **Purdue University** (expected May 2027)
 - 💡 Interested in **generative AI**, **computer vision**, and building full-stack products powered by ML
 - 🛠️ Currently working on a passion project that merges fashion and technology. Stay tuned... 👀
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shola-arulogun) or email me directly at **ayoaru00@gmail.com**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shola-arulogun) or email me directly using the button above
 
 <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Skills" alt="Noise banner" />
 
