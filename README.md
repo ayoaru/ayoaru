@@ -108,22 +108,32 @@
 
 </div>
 
+<details>
+<summary>What's this? 👀</summary>
+
+
 <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Extras" alt="Noise banner" />
 
-<div align="center">
+
 
 ## 👾 Games
-<img src="/metrics.steam.svg" width="400" />
 
+<div align="center">
+<img src="/metrics.steam.svg" width="400" />
+</div>
+  
 <!-- Music, in case I want it later?
 ## 🎧 Music
 <img src="/metrics.music.svg" width="400" />
 -->
 
 ## 🎬 Anime
-<img src="/metrics.anilist.svg" width="400" />
 
+<div align="center">
+<img src="/metrics.anilist.svg" width="400" />
 </div>
+
+</details>
 
 <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Connect%20With%20Me" alt="Noise banner" />
 
