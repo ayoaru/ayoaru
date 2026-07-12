@@ -96,6 +96,8 @@
 
 <div align="center">
 
+![Metrics](/github-metrics.svg)
+<br/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayoaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoaru&layout=compact&theme=tokyonight&hide_border=true" />
@@ -106,15 +108,20 @@
 
 </div>
 
-
 <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Extras" alt="Noise banner" />
 
+<div align="center">
+
 ## 👾 Games
+<img src="/metrics.steam.svg" width="400" />
 
 ## 🎧 Music
+<img src="/metrics.music.svg" width="400" />
 
 ## 🎬 Anime
+<img src="/metrics.anilist.svg" width="400" />
 
+</div>
 
 <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Connect%20With%20Me" alt="Noise banner" />
 
