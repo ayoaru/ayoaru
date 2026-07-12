@@ -115,8 +115,10 @@
 ## 👾 Games
 <img src="/metrics.steam.svg" width="400" />
 
+<!-- Music, in case I want it later?
 ## 🎧 Music
 <img src="/metrics.music.svg" width="400" />
+-->
 
 ## 🎬 Anime
 <img src="/metrics.anilist.svg" width="400" />
