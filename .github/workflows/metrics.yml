@@ -43,7 +43,7 @@ jobs:
           base: ""
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: "YOUR_STEAMID64"
+          plugin_steam_user: "76561198885646314"
           plugin_steam_sections: recently-played
 
       - name: Spotify card
