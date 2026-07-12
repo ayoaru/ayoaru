@@ -30,7 +30,7 @@ jobs:
           filename: metrics.anilist.svg
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: YOUR_ANILIST_USERNAME
+          plugin_anilist_user: Cryliic
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: watching, favorites
 
