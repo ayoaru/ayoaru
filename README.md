@@ -56,16 +56,18 @@
 
 - 🔭 AI4ALL Ignite — A career accelerator that helps undergraduate students build in-demand AI skills, develop industry connections, and prepare for internships and early career roles.
 - 🌱 Learning data exploration, cleaning, and auditing in the context of different ML techniques/methods.
-- 🤝 Looking to collaborate and take what I've learned to use computer vision to solve important problems.
+- 🤝 Always open to collaborating and take what I've learned to tackle various AI-related problems
 
 
 <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Background" alt="Noise banner" />
 
 
 ## 💼 Experience
+**Availity** — *Software Engineering Intern, Remote* &nbsp;|&nbsp; Sept 2026 – Present
+- Working on agentic AI
 
 **AI4ALL** — *Ignite Fellow, Remote* &nbsp;|&nbsp; May 2026 – Present
-- Collaborating with students across universities to use AI/ML to make predictions in healthcare
+- Collaborating with a group of students representing multiple universities on a project at the intersection of AI and healthcare
 
 **LinkedIn** — *Software Engineering Intern, Trust & Safety* &nbsp;|&nbsp; May 2025 – Aug 2025
 - Built a proactive system using dependency injection that cut engineering effort from 4–5 weeks to 2–3 days for internal anti-abuse tooling
