@@ -54,7 +54,7 @@
 
 ## 🚧 What Am I Currently Up To?
 
-- 🔭 AI4ALL Ignite — A career accelerator that helps undergraduate students build in-demand AI skills, develop industry connections, and prepare for internships and early career roles.
+- 🔭 SWE Intern @ Lookwear, Availity: Working on agentic AI in healthcare and helping a fashion tech startup meet demands to scale + launch new features
 - 🌱 Learning data exploration, cleaning, and auditing in the context of different ML techniques/methods.
 - 🤝 Always open to collaborating and take what I've learned to tackle various AI-related problems
 
@@ -63,10 +63,13 @@
 
 
 ## 💼 Experience
+**Lookwear** - *Software Engineering Intern, Remote* &nbsp;|&nbsp; Nov 2026 – Present
+- Helping bridge your fashion and style with your music taste
+
 **Availity** — *Software Engineering Intern, Remote* &nbsp;|&nbsp; Sept 2026 – Present
 - Working on agentic AI
 
-**AI4ALL** — *Ignite Fellow, Remote* &nbsp;|&nbsp; May 2026 – Present
+**AI4ALL** — *Ignite Fellow, Remote* &nbsp;|&nbsp; May 2026 – Oct 2026
 - Collaborating with a group of students representing multiple universities on a project at the intersection of AI and healthcare
 
 **LinkedIn** — *Software Engineering Intern, Trust & Safety* &nbsp;|&nbsp; May 2025 – Aug 2025
